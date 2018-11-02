@@ -31,39 +31,36 @@ sidebar:
         level: Professional
         
     interests:
-      - item: Confiable y profesional
+      - item: Reliable and professional
         link:
 
-      - item: Investigador
+      - item: Researcher
         link:
 
-      - item: Espiritu creativo
+      - item: Creative spirit
         link:
       
-      - item: Jugador de equipo
+      - item: Team player
         link:
 
-      - item: Aprendiz rápido
+      - item: Fast learner
         link:
 
-      - item: Organizado
+      - item: Organized
         link:
 
 career-profile:
-    title: Career Profile
+    title: IT Specialist
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      I'am passionate about the IT world, mainly the design and development of videogames. 
+      Currently i'm working on the development of websites in Wordpress format working with MySQL, HTML5 and CSS3 languages.
+      
+      To download my resume in Spanish, [you can access via the following link]().
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Lamp Admin
+      university: CDA Tech
+      time: 2016 - 2017
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -74,9 +71,22 @@ education:
           - Bullet point
           - Bullet point 
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Video games development
+      university: UTN - National Technology University
+      time: 2015 - 2016
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point 
+
+    - degree: Personal and professional computer technician
+      university: Leonardo Murialdo Institute
+      time: 2012 - 2014
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -88,9 +98,9 @@ education:
           - Bullet point 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: QA Analyst
+      time: 2016 - Present
+      company: CDA, France
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -105,9 +115,9 @@ experiences:
           - Bullet point
           - Bullet point 
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Unix Administrator
+      time: 2015 - 2016
+      company: CDA, France
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -118,9 +128,22 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Web Builder
+      time: 2015 - 2016
+      company: INDÓMITA Digital Creative Agency, Spain
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+    - role: Intern of the computer department
+      time: 2014 - 2015
+      company: Leonardo Murialdo Institute, Argentina
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -183,22 +206,28 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: UNIX
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: CRYSTAL REPORTS
         level: 98%
 
-      - name: Angular
+      - name: WINDOWS
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: ORACLE
         level: 95%
 
-      - name: Ruby on Rails
+      - name: APACHE
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: MAYA 3D
+        level: 60%
+
+      - name: MySQL
+        level: 60%
+
+      - name: UNITY
         level: 60%
 
 footer: >
