@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -55,7 +55,7 @@ career-profile:
       I'am passionate about the IT world, mainly the design and development of videogames. 
       Currently i'm working on the development of websites in Wordpress format working with MySQL, HTML5 and CSS3 languages.
       
-      To download my resume in Spanish, [you can access via the following link]().
+      To know more about my professional development you can visit my linkedin, [via the following link](http://www.linkedin.com/in/santiagoperin).
 
 education:
     - degree: Lamp Admin
@@ -210,22 +210,22 @@ skills:
         level: 98%
 
       - name: CRYSTAL REPORTS
-        level: 98%
+        level: 99%
 
       - name: WINDOWS
         level: 98%
 
       - name: ORACLE
-        level: 95%
+        level: 98%
 
       - name: APACHE
-        level: 85%
+        level: 95%
 
       - name: MAYA 3D
-        level: 60%
+        level: 65%
 
-      - name: MySQL
-        level: 60%
+      - name: MYSQL
+        level: 80%
 
       - name: UNITY
         level: 60%
